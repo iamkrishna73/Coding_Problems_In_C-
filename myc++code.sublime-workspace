@@ -1,0 +1,496 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pri",
+				"printSub"
+			],
+			[
+				"wee",
+				"weekDays"
+			],
+			[
+				"disp",
+				"display"
+			],
+			[
+				"s",
+				"first_natural_sum"
+			],
+			[
+				"comp",
+				"complex"
+			],
+			[
+				"c",
+				"ComplexNum"
+			],
+			[
+				"inc",
+				"include"
+			],
+			[
+				"el",
+				"element2"
+			],
+			[
+				"le",
+				"element2"
+			],
+			[
+				"ele",
+				"element2"
+			],
+			[
+				"ios",
+				"iostream"
+			],
+			[
+				"inde",
+				"IndexOfMaxJ"
+			],
+			[
+				"arra",
+				"arrleftrotate"
+			],
+			[
+				"roo",
+				"root2"
+			],
+			[
+				"ma",
+				"main"
+			],
+			[
+				"insertAt",
+				"insertAtEnd"
+			],
+			[
+				"insetAt",
+				"insertAtBegin"
+			],
+			[
+				"inse",
+				"insertAtBegin"
+			],
+			[
+				"lis",
+				"List"
+			],
+			[
+				"m",
+				"main"
+			],
+			[
+				"pre",
+				"prepand"
+			],
+			[
+				"p",
+				"printlinkedlist"
+			],
+			[
+				"cou",
+				"counts"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"Arithmetic"
+			],
+			[
+				"dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"en",
+				"Package Control: Enable Package"
+			],
+			[
+				"pack",
+				"Package Control: Disable Package"
+			],
+			[
+				"enabl",
+				"Package Control: Enable Package"
+			],
+			[
+				"dia",
+				"Package Control: Disable Package"
+			],
+			[
+				"enabe",
+				"Package Control: Enable Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Channel"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"package con",
+				"Package Control: Disable Package"
+			],
+			[
+				"disbl",
+				"Package Control: Disable Package"
+			],
+			[
+				"pactkage",
+				"Package Control: Enable Package"
+			],
+			[
+				"enab",
+				"Package Control: Enable Package"
+			],
+			[
+				"diable",
+				"Package Control: Disable Package"
+			],
+			[
+				"vinta",
+				"Vintageous: Toggle Vim Ctrl Keys"
+			],
+			[
+				"vintage",
+				"Vintageous: Toggle Vim Ctrl Keys"
+			],
+			[
+				"install package ",
+				"Package Control: Install Package"
+			],
+			[
+				"di",
+				"Package Control: Disable Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Disable Package"
+			],
+			[
+				"enag",
+				"Package Control: Enable Package"
+			],
+			[
+				"disage",
+				"Package Control: Disable Package"
+			],
+			[
+				"install p",
+				"Package Control: Install Package"
+			],
+			[
+				"install packa",
+				"Install Package Control"
+			],
+			[
+				"theme",
+				"UI: Select Color Scheme"
+			],
+			[
+				"them",
+				"UI: Select Theme"
+			],
+			[
+				"cancel",
+				"Build: Cancel"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+			"ls"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/C++ in Krishna/recursivefactorial.cpp",
+		"/D/C++ in Krishna/NumberOccurringOddNumberofTimes.cpp",
+		"/D/C++ in Krishna/binarytodecimal.cpp",
+		"/D/C++ in Krishna/FibonacciSeries.cpp",
+		"/D/C++ in Krishna/decimaltobinary.cpp",
+		"/D/C++ in Krishna/primecheck.cpp",
+		"/D/C++ in Krishna/PrimeNumbersBetweenTwoIntervals.cpp",
+		"/D/C++ in Krishna/pattern.cpp",
+		"/D/C++ in Krishna/largestelementofanarray.cpp",
+		"/D/C++ in Krishna/factorial.cpp",
+		"/D/C++ in Krishna/removeduplicate.cpp",
+		"/D/C++ in Krishna/stringlength.cpp",
+		"/D/C++ in Krishna/Frequency of given Character byuser in a String.cpp",
+		"/D/C++ in Krishna/recursivefibonaccisum.cpp",
+		"/D/C++ KRISHNA/IfNumIsSumofTwoPrimeNum.cpp",
+		"/D/C++ KRISHNA/primecheck1.cpp",
+		"/D/C++ in Krishna/NumberOccurringOddNumberofTimes",
+		"/C/Program Files/Sublime Text 3/dijkstra.cpp",
+		"/C/Program Files/Sublime Text 3/a.cpp",
+		"/D/C++ KRISHNA/SumofFirstNaturalNumber.cpp",
+		"/D/C++ KRISHNA/SumofFirstNaturalNumberUsingWhileLoop.cpp",
+		"/D/C++ KRISHNA/fibonacciseries.cpp",
+		"/D/C++ KRISHNA/leftRecursive.c",
+		"/D/C++ KRISHNA/rotatearrayelements.cpp",
+		"/D/C++ KRISHNA/reversearrayelements.cpp",
+		"/D/C++ KRISHNA/sumofarrayelemets.cpp",
+		"/D/C++ KRISHNA/wavearray.cpp",
+		"/D/C++ KRISHNA/inherentance.cpp",
+		"/D/C++ KRISHNA/largestwordinagivenstring.cpp",
+		"/D/C++ KRISHNA/FibonacciSeriesUsingRecursion.cpp",
+		"/D/C++ KRISHNA/recursionfib.cpp",
+		"/D/C++ KRISHNA/quickSort.cpp",
+		"/D/C++ KRISHNA/perfectsquide4digit.cpp",
+		"/D/C++ KRISHNA/perfectsquare.cpp",
+		"/D/C++ KRISHNA/factorial1.cpp",
+		"/D/C++ KRISHNA/temp3.cpp",
+		"/D/C++ KRISHNA/arrayinsert.cpp",
+		"/D/C++ KRISHNA/temp1.cpp",
+		"/D/C++ KRISHNA/frequencyofthecharacter.cpp",
+		"/D/C++ KRISHNA/RemoveDuplicatesInaSortedArray.cpp",
+		"/D/C++ KRISHNA/oops.cpp",
+		"/D/C++ KRISHNA/FindMissingNumberInAnArray.cpp",
+		"/D/C++ KRISHNA/countallthewordsinagivenstring.cpp",
+		"/D/C++ KRISHNA/firdsosh.cpp",
+		"/D/C++ KRISHNA/firdsosh.c",
+		"/D/C++ KRISHNA/keyword.c",
+		"/D/C++ KRISHNA/RemoveDuplicatesInaSortedArray",
+		"/D/C++ KRISHNA/primecheck.cpp",
+		"/D/C++ KRISHNA/RemoveallCharactersinaStringExceptalphabets.cpp",
+		"/D/C++ KRISHNA/FindSumofNNaturalNumbersrecursion.cpp",
+		"/D/C++ KRISHNA/vector.cpp",
+		"/D/C++ KRISHNA/armstrongcheck.cpp",
+		"/D/C++ KRISHNA/binarytodecimal.cpp",
+		"/D/C++ KRISHNA/frequencyofacharacter",
+		"/D/C++ KRISHNA/pointer.cpp",
+		"/D/C++ KRISHNA/temp.cpp",
+		"/D/C++ KRISHNA/temp4.cpp",
+		"/D/C++ KRISHNA/temp5.cpp",
+		"/D/C++ KRISHNA/temp6.cpp",
+		"/D/C++ KRISHNA/dano.cpp",
+		"/D/C++ KRISHNA/primes.cpp",
+		"/D/C++ KRISHNA/function1.cpp",
+		"/D/C++ KRISHNA/largestofthreenum.cpp",
+		"/D/C++ KRISHNA/reversenum.cpp",
+		"/D/C++ KRISHNA/sumofadigit.cpp",
+		"/D/C++ KRISHNA/palindromecheck.cpp",
+		"/D/C++ KRISHNA/matrix.cpp",
+		"/D/C++ KRISHNA/multiplicationoftable.cpp",
+		"/D/C++ in Krishna/hello.exe",
+		"/D/Sublime files/C++ files/removeDubplicateElements.cpp",
+		"/D/Sublime files/C++ files/test.cpp",
+		"/D/Sublime files/C++ files/codetantraMFT.cpp",
+		"/D/Sublime files/C++ files/oops/polymorphism.cpp",
+		"/D/Sublime files/C++ files/candy.cpp",
+		"/D/Sublime files/C++ files/patterns in cpp/patter1.cpp",
+		"/D/Sublime files/C++ files/patterns in cpp/trianglePattern2.cpp",
+		"/D/Sublime files/C++ files/test.py",
+		"/D/Sublime files/C++ files/patterns in cpp/hollowRectangle.cpp",
+		"/D/Sublime files/C++ files/type.cpp",
+		"/D/Sublime files/C++ files/isSameTree.cpp",
+		"/D/C++ in Krishna/type.cpp",
+		"/D/C++ in Krishna/hello.cpp",
+		"/D/C++ in Krishna/twonum.cpp",
+		"/D/C++ in Krishna/twoSum.cpp",
+		"/D/Sublime files/Py programs/twosum.py",
+		"/D/Sublime files/C++ files/codetantra3.cpp",
+		"/D/C++ in Krishna/numsum.cpp",
+		"/D/Sublime files/codeinc++",
+		"/D/Sublime files/C++ files/codeforces in cpp/prettyPermutations.cpp",
+		"/D/Sublime files/C++ files/codeforces in cpp/greatGraphs.cpp",
+		"/D/Sublime files/C++ files/patterns in cpp/patternNUmber.cpp",
+		"/D/Sublime files/C++ files/patterns in cpp/tringalePattern3.cpp",
+		"/D/Sublime files/C++ files/patterns in cpp/invertedTriangle.cpp",
+		"/D/Sublime files/C++ files/patterns in cpp/rectanglePattern.cpp",
+		"/D/Sublime files/C++ files/patterns in cpp/numbers tringale.cpp",
+		"/D/Sublime files/C++ files/DSU.cpp",
+		"/D/Sublime files/Py programs/frequency.py",
+		"/C/Users/govin/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/D/Sublime files/C++ files/tree.cpp",
+		"/C/Users/govin/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/C/Users/govin/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/D/Sublime files/Py programs/prenodelinkedlist.py",
+		"/D/Sublime files/Py programs/prepandlinkedlist.py",
+		"/D/Sublime files/Py programs/main.py",
+		"/D/Python/New folder/main.py",
+		"/D/Sublime files/Py programs/first.py",
+		"/D/Python/Python395/main",
+		"/C/Users/govin/AppData/Roaming/Sublime Text 3/Packages/User/cppBuildSystem.sublime-build",
+		"/D/js/react/maddie/carousel/src/components/modules/userTop/freq.py",
+		"/D/Sublime files/C++ files/maximumSumOfProducts.cpp",
+		"/D/Sublime files/C++ files/countLeastAndMost.cpp",
+		"/D/Py programs/first.py",
+		"/D/Videos/Got Seaosn 2/Avengers_.Infinity.War.2018.720p.BluRay.x264.[YTS.MX]-English.srt"
+	],
+	"find":
+	{
+		"height": 38.4
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 38.4
+	},
+	"input":
+	{
+		"height": 53.6
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 275.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/cppBuildSystem.sublime-build",
+	"project": "myc++code.sublime-project",
+	"replace":
+	{
+		"height": 73.6
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 502.4,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"D:\\C++ in Krishna\\myc++code.sublime-workspace"
+			]
+		],
+		"width": 384.8
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 159.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
